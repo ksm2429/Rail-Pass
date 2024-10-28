@@ -38,4 +38,4 @@ Follow these steps to set up and run the Rail Pass Management System (RPMS) Proj
 
 ## Contact
 
-[ksm2429](https://github.com/ksm2429).
+[LinkedIn](https://www.linkedin.com/in/ksm2429).
