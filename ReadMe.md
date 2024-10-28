@@ -36,6 +36,6 @@ Follow these steps to set up and run the Rail Pass Management System (RPMS) Proj
 
 - **Pass No:** `305788314`
 
-## Credits
+## Contact
 
-All the credit goes to [ksm2429](https://github.com/ksm2429).
+[ksm2429](https://github.com/ksm2429).
